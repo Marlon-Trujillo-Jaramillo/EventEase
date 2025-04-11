@@ -1,0 +1,16 @@
+﻿@using EventEase.Models
+
+<div class="card my-2 p-3">
+    <h4>@Event.Name</h4>
+    <p><strong>Fecha:</strong> @Event.Date.ToString("dd/MM/yyyy")</p>
+    <p><strong>Ubicación:</strong> @Event.Location</p>
+    @if (!string.IsNullOrWhiteSpace(Event.Description))
+    {
+        <p><strong>Descripción:</strong> @Event.Description</p>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public EventModel Event { get; set; }
+}

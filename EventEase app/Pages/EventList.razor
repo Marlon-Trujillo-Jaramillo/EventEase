@@ -1,0 +1,23 @@
+﻿@page "/events"
+@using EventEase.Models
+
+<Virtualize Items="@events" Context="evnt">
+    <EventCard Event="@evnt" />
+</Virtualize>
+
+@code {
+    private List<EventModel> events = new();
+
+    protected override void OnInitialized()
+    {
+        for (int i = 0; i < 1000; i++)
+        {
+            events.Add(new EventModel
+                {
+                    Name = $"Event {i}",
+                    Date = DateTime.Now.AddDays(i),
+                    Location = $"Location {i}"
+                });
+        }
+    }
+}

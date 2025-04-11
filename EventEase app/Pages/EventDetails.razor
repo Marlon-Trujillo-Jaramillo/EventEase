@@ -1,0 +1,37 @@
+﻿@page "/event-details"
+@using EventEase.Models
+
+<h1>Detalles del Evento</h1>
+
+@if (EventDetail != null)
+{
+    <div class="event-details">
+        <h2>@EventDetail.Name</h2>
+        <p><strong>Fecha:</strong> @EventDetail.Date.ToString("dd/MM/yyyy")</p>
+        <p><strong>Ubicación:</strong> @EventDetail.Location</p>
+        @if (!string.IsNullOrEmpty(EventDetail.Description))
+        {
+            <p><strong>Descripción:</strong> @EventDetail.Description</p>
+        }
+    </div>
+}
+else
+{
+    <p>No se encontró el evento.</p>
+}
+
+@code {
+    protected override void OnInitialized()
+    {
+        EventDetail = new EventModel
+            {
+                Name = "Conferencia Anual de Tecnología",
+                Date = DateTime.Now.AddDays(10),
+                Location = "Centro de Convenciones",
+                Description = "Evento anual para networking y presentaciones de las últimas tendencias tecnológicas."
+            };
+    }
+
+    [Parameter]
+    public EventModel EventDetail { get; set; }
+}

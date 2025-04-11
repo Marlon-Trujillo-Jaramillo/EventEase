@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elect\\source\\repos\\EventEase app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\pages\\eventdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\pages\\eventdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\pages\\eventlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\pages\\eventlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\shared\\eventcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\shared\\eventcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\pages\\eventregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\pages\\eventregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|c:\\users\\elect\\source\\repos\\eventease app\\eventease app\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5237111-249F-4C29-BDDE-0934B944DEDE}|EventEase app\\EventEase app.csproj|solutionrelative:eventease app\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\App.razor",
+              "RelativeDocumentMoniker": "EventEase app\\App.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\App.razor",
+              "RelativeToolTip": "EventEase app\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:45:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\NotFound.razor",
+              "RelativeToolTip": "EventEase app\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:44:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EventEase app\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T18:22:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventRegistration.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventRegistration.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Pages\\EventRegistration.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventRegistration.razor",
+              "RelativeToolTip": "EventEase app\\Pages\\EventRegistration.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:28:58.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDetails.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventDetails.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Pages\\EventDetails.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventDetails.razor",
+              "RelativeToolTip": "EventEase app\\Pages\\EventDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:22:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventList.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventList.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Pages\\EventList.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Pages\\EventList.razor",
+              "RelativeToolTip": "EventEase app\\Pages\\EventList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:21:43.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "EventEase app\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Models\\EventModel.cs",
+              "RelativeToolTip": "EventEase app\\Models\\EventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:16:58.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventCard.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Shared\\EventCard.razor",
+              "RelativeDocumentMoniker": "EventEase app\\Shared\\EventCard.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\Shared\\EventCard.razor",
+              "RelativeToolTip": "EventEase app\\Shared\\EventCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:14:05.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\_Imports.razor",
+              "RelativeDocumentMoniker": "EventEase app\\_Imports.razor",
+              "ToolTip": "C:\\Users\\elect\\source\\repos\\EventEase app\\EventEase app\\_Imports.razor",
+              "RelativeToolTip": "EventEase app\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T16:34:10.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
